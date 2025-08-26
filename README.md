@@ -6,7 +6,7 @@ Joseph Frederick Opoku
 
 📝 Project Overview
 
-This web application allows users to search for GitHub profiles, browse paginated user lists, and view 
+This web application allows users to search for GitHub profiles, browse paginated user lists, and view
 detailed information about each user. It was built using React and styled with vanilla CSS, focusing
 on clean architecture, semantic layout, and dynamic data rendering.
 Key features include:
